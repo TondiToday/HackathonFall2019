@@ -9,8 +9,8 @@ MainPage = Blueprint('DonorView',__name__, template_folder='/templates')
 
 
 
-@main_page.route('/')
+@DonorView.route('/')
 
 
 
-@main_page.route('/', methods=['POST'])
+@DonorView.route('/', methods=['POST'])

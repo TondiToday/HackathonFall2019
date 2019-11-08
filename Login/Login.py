@@ -9,8 +9,8 @@ MainPage = Blueprint('Login',__name__, template_folder='/templates')
 
 
 
-@main_page.route('/')
+@login.route('/')
 
 
 
-@main_page.route('/', methods=['POST'])
+@login.route('/', methods=['POST'])

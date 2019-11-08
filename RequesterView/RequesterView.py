@@ -9,8 +9,8 @@ MainPage = Blueprint('RequesterView',__name__, template_folder='/templates')
 
 
 
-@main_page.route('/')
+@RequesterView.route('/')
 
 
 
-@main_page.route('/', methods=['POST'])
+@RequesterView.route('/', methods=['POST'])
