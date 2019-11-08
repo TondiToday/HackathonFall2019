@@ -1,7 +1,7 @@
 import blueprint as blueprint
 from flask import Flask
 from DonorView.DonorView import DonorView
-from Login.Login import import Login
+from Login.Login import Login
 from MainPage.MainPage import MainPage
 from RequesterView.RequesterView import RequesterView
 
