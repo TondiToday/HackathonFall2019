@@ -1,9 +1,9 @@
 from flask import Flask, Blueprint, render_template, request
-from flask import Flask, Blueprint
 import json
 import os
 import sqlite3
 
+from flask_sqlalchemy import SQLAlchemy
 from flask import Flask, redirect, request, url_for
 from flask_login import (
     LoginManager,
@@ -21,6 +21,7 @@ GOOGLE_CLIENT_SECRET = os.environ.get("GOOGLE_CLIENT_SECRET", None)
 GOOGLE_DISCOVERY_URL = (
     "https://accounts.google.com/.well-known/openid-configuration"
 
+def _init_:
 
 
 
@@ -35,4 +36,3 @@ def Donor_Login():
 
 
 @Login.route('/', methods=['POST'])
-def Donor
