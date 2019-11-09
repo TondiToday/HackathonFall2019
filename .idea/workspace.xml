@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0c64ee68-dbd3-4157-a2d4-786fe8295c51" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/Login.py" beforeDir="false" afterPath="$PROJECT_DIR$/Login/Login.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Login/auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/Login/auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/Login.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/Login.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573241443514</updated>
       <workItem from="1573241444970" duration="650000" />
-      <workItem from="1573325381816" duration="3473000" />
+      <workItem from="1573325381816" duration="5124000" />
     </task>
     <servers />
   </component>
