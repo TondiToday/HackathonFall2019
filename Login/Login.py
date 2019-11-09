@@ -1,16 +1,17 @@
-from flask import Flask, Blueprint
+from flask import Flask, Blueprint, render_template
 
 
 
 
 
 app = Flask(__name__)
-MainPage = Blueprint('Login',__name__, template_folder='/templates')
+Login = Blueprint('Login',__name__, template_folder='/templates')
 
 
 
-@login.route('/')
+@Login.route('/')
+def render_form():
+    return render_template('Login.html')
 
 
-
-@login.route('/', methods=['POST'])
+#@Login.route('/', methods=['POST'])

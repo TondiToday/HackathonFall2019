@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+<title>MainPage</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body class="w3-content" style="max-width:1300px">
+
+<!-- First Grid: Logo & About -->
+<div class="w3-row">
+    <div class="w3-half w3-black w3-container w3-center" style="height:700px">
+        <div class="w3-padding-64">
+            <h1>Recipient</h1>
+        </div>
+        <div class="w3-padding-64">
+            <form action="/" method="POST">
+                <input type="button" class="w3-button w3-blue-grey w3-block w3-hover-black w3-padding-16" name="RecipientLogin" value="Login" />
+            </form>
+            <p></p>
+            <form action="/Register" method="POST">
+                <input type="button" class="w3-button w3-blue-grey w3-block w3-hover-teal w3-padding-16" name="RecipientRegister" value="Register" />
+            </form>
+        </div>
+    </div>
+    <div class="w3-half w3-blue-grey w3-container" style="height:700px" style="height:700px">
+        <div class="w3-padding-64">
+            <h1>Donor</h1>
+        </div>
+        <div class="w3-padding-64">
+            <form action="/" method="POST">
+                <input type="button" class="w3-button w3-black w3-block w3-hover-blue-grey w3-padding-16" name="DonorLogin" value="Login" />
+            </form>
+            <p></p>
+            <form action="/Register" method="POST">
+                <input type="button" class="w3-button w3-black w3-block w3-hover-teal w3-padding-16"  name="DonorRegister" value="Register" />
+            </form>
+        </div>
+</div>
+
+<!-- Second Grid: Work & Resume -->
+<div class="w3-row">
+    <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+        <div class="w3-padding-64">
+            <h2>Recipient Register</h2>
+            <p>Kindly fill in the blanks</p>
+        </div>
+        <div class="w3-row">
+            <div class="w3-half">
+                <img src="/w3images/coffee.jpg" style="width:100%">
+            </div>
+            <div class="w3-half">
+                <img src="/w3images/workbench.jpg" style="width:100%">
+            </div>
+        </div>
+        <div class="w3-row w3-hide-small">
+            <div class="w3-half">
+                <img src="/w3images/workbench.jpg" style="width:100%">
+            </div>
+            <div class="w3-half">
+                <img src="/w3images/coffee.jpg" style="width:100%">
+            </div>
+        </div>
+
+        <div class="w3-row w3-hide-small">
+            <div class="w3-half">
+                <img src="/w3images/sound.jpg" style="width:100%">
+            </div>
+            <div class="w3-half">
+                <img src="/w3images/workbench.jpg" style="width:100%">
+            </div>
+        </div><br>
+        <p>Giving is not just about making a donation. It is about making a difference.</p>
+    </div>
+    <div class="w3-half w3-light-grey w3-center" style="min-height:800px" id="work">
+        <div class="w3-padding-64">
+            <h2>Donor Register</h2>
+            <p>Kindly fill in the blanks</p>
+        </div>
+        <div class="w3-row">
+            <div class="w3-half">
+                <img src="/w3images/coffee.jpg" style="width:100%">
+            </div>
+            <div class="w3-half">
+                <img src="/w3images/workbench.jpg" style="width:100%">
+            </div>
+        </div>
+        <div class="w3-row w3-hide-small">
+            <div class="w3-half">
+                <img src="/w3images/workbench.jpg" style="width:100%">
+            </div>
+            <div class="w3-half">
+                <img src="/w3images/coffee.jpg" style="width:100%">
+            </div>
+        </div>
+
+        <div class="w3-row w3-hide-small">
+            <div class="w3-half">
+                <img src="/w3images/sound.jpg" style="width:100%">
+            </div>
+            <div class="w3-half">
+                <img src="/w3images/workbench.jpg" style="width:100%">
+            </div>
+        </div><br>
+        <p>We rise by lifting others.</p>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <div class="w3-half w3-teal w3-container" style="height:700px">
+        <div class="w3-padding-64 w3-padding-large">
+            <h1>Contact</h1>
+            <p class="w3-opacity">Register</p>
+            <form class="w3-container w3-card w3-padding-32 w3-white" action="/action_page.php" target="_blank">
+                <div class="w3-section">
+                    <label>Name</label>
+                    <input class="w3-input" style="width:100%;" type="text" required name="Name">
+                </div>
+                <div class="w3-section">
+                    <label>Email</label>
+                    <input class="w3-input" style="width:100%;" type="text" required name="Email">
+                </div>
+                <div class="w3-section">
+                    <label>Password</label>
+                    <input class="w3-input" style="width:100%;" type="text" required name="Password">
+                </div>
+                <button type="submit" class="w3-button w3-teal w3-right">Send</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

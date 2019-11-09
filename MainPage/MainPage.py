@@ -1,4 +1,4 @@
-from flask import Flask, Blueprint
+from flask import Flask, Blueprint, render_template, request, redirect
 
 
 
@@ -9,8 +9,19 @@ MainPage = Blueprint('MainPage',__name__, template_folder='/templates')
 
 
 
-@main_page.route('/')
+@MainPage.route('/')
+def render_form():
+    print('it worked')
+    return render_template('MainPage.html')
 
 
+@MainPage.route('/', methods=['POST'])
+def login():
+    if request.form == 'DonorLogin':
+        print('it worked')
+        return render_template('Login.html')
 
-@main_page.route('/', methods=['POST'])
+@MainPage.route('/', methods=['POST'])
+def register():
+    print('it worked')
+    return render_template('/Login')
