@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c64ee68-dbd3-4157-a2d4-786fe8295c51" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ShopPage/ShopPage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/RequesterView.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/ShopPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/RequesterView.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/ShopPage.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,9 +31,22 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\startbootstrap-shop-homepage-gh-pages\css" />
+      <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\startbootstrap-shop-homepage-gh-pages" />
+      <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019" />
+      <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\templates" />
+      <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\templates\css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -48,14 +60,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.RequesterView.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="RequesterView.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/templates/RequesterView.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ShopPage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/templates/ShopPage.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="fekc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/templates/fekc.html" useBuiltInWebServerPort="true">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/startbootstrap-shop-homepage-gh-pages/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/startbootstrap-shop-item-master/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/side-shopping-cart-master/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="HackathonFall2019" type="Python.FlaskServer">
@@ -65,7 +83,7 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
@@ -75,9 +93,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.RequesterView.html" />
         <item itemvalue="JavaScript Debug.ShopPage.html" />
-        <item itemvalue="JavaScript Debug.fekc.html" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +114,7 @@
       <workItem from="1573188404099" duration="5987000" />
       <workItem from="1573239238344" duration="1058000" />
       <workItem from="1573317111780" duration="1897000" />
-      <workItem from="1573321579551" duration="1855000" />
+      <workItem from="1573321579551" duration="7566000" />
     </task>
     <servers />
   </component>
