@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c64ee68-dbd3-4157-a2d4-786fe8295c51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ShopPage/ShopPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/RequesterView.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/ShopPage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,6 +18,7 @@
       <list>
         <option value="Flask Main" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -22,7 +26,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1TO32tCshE82pVSg07vG5bZbUtJ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -42,7 +48,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.fekc.html">
+  <component name="RunManager" selected="JavaScript Debug.RequesterView.html">
+    <configuration name="RequesterView.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/templates/RequesterView.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="ShopPage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/templates/ShopPage.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="fekc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/templates/fekc.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -63,6 +75,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.RequesterView.html" />
+        <item itemvalue="JavaScript Debug.ShopPage.html" />
         <item itemvalue="JavaScript Debug.fekc.html" />
       </list>
     </recent_temporary>
@@ -80,6 +94,7 @@
       <workItem from="1573188404099" duration="5987000" />
       <workItem from="1573239238344" duration="1058000" />
       <workItem from="1573317111780" duration="1897000" />
+      <workItem from="1573321579551" duration="1855000" />
     </task>
     <servers />
   </component>
@@ -91,7 +106,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
