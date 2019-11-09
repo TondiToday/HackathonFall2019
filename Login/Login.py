@@ -35,4 +35,5 @@ def Donor_Login():
 
 
 @Login.route('/', methods=['POST'])
-def Donor
+def Donor():
+    return render_template('profile.html')
