@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c64ee68-dbd3-4157-a2d4-786fe8295c51" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/HackathonFall2019.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/HackathonFall2019.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/RequesterView.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/ShopPage.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/startbootstrap-shop-homepage-gh-pages/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,21 +32,28 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\templates" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tarik\OneDrive\Documents\GitHub\HackathonFall2019\templates" />
       <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\startbootstrap-shop-homepage-gh-pages\css" />
       <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\startbootstrap-shop-homepage-gh-pages" />
       <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019" />
       <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\templates" />
-      <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\templates\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\tariksalay\Documents\GitHub\CSEE5590-IOT-Robotics\HackathonFall2019\templates" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -60,20 +68,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="RequesterView.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/templates/RequesterView.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="ShopPage.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/templates/ShopPage.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/startbootstrap-shop-homepage-gh-pages/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/startbootstrap-shop-item-master/index.html" useBuiltInWebServerPort="true">
+    <configuration name="fekc.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/templates/fekc.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/side-shopping-cart-master/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/HackathonFall2019/templates/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="HackathonFall2019" type="Python.FlaskServer">
@@ -93,11 +101,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.RequesterView.html" />
-        <item itemvalue="JavaScript Debug.ShopPage.html" />
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.fekc.html" />
       </list>
     </recent_temporary>
   </component>
@@ -115,6 +120,7 @@
       <workItem from="1573239238344" duration="1058000" />
       <workItem from="1573317111780" duration="1897000" />
       <workItem from="1573321579551" duration="7566000" />
+      <workItem from="1573352784763" duration="2361000" />
     </task>
     <servers />
   </component>
@@ -133,5 +139,22 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HackathonFall2019$HackathonFall2019.coverage" NAME="HackathonFall2019 Coverage Results" MODIFIED="1573352979437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
